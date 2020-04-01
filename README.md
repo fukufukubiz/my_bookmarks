@@ -45,7 +45,7 @@
 - <https://book.impress.co.jp/>
   - たまに全文無料公開される。要チェック。
 
-2.Python Data Science Handbook
+2. Python Data Science Handbook
 
 - <https://jakevdp.github.io/PythonDataScienceHandbook/>
   - 英語版が無料で閲覧可能
