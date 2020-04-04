@@ -4,6 +4,8 @@
 
 ## For training
 
+### for bigginer
+
 1. サイボウズ 新人研修資料 2019
 
 - <https://blog.cybozu.io/entry/2019/09/05/080000>
@@ -16,13 +18,13 @@
   - とてもわかりやすいアニメーション
   - イメージが湧きやすく、理解も深まる
 
-3. 勝手に学習 OSS-DB Gold
+3. Grasshopper
 
-- <https://www.r-izm.com/oss_g/>
-  - PostgreSQLの重要かつ濃度の濃い情報が詰まっている
-  - PostgreSQL Goldの参考書が1冊しか存在しない中でこれだけの情報がまとまっているのは貴重
-  - OSS-DBを受ける受けないに関わらず、PostgreSQLに関する詳しい情報を得るのに役立つ
-  - たまにドメインが無効になりアクセスできなくなる
+- <https://grasshopper.app/>
+  - Googleが提供するプログラミング学習ツール
+  - JavaScriptに関する教材
+  - Googleアカウントがあれば、無料で利用できる
+  - ただし英語
 
 4. デザイン基礎
 
@@ -30,13 +32,22 @@
   - デザインの基礎について分かりやすく重要なことがまとめられている
   - 資料作り、サイト作りなど、あらゆる面での基礎知識となるはず
 
-5. Grasshopper
+5. SQL Tutorial
 
-- <https://grasshopper.app/>
-  - Googleが提供するプログラミング学習ツール
-  - JavaScriptに関する教材
-  - Googleアカウントがあれば、無料で利用できる
-  - ただし英語
+- <https://speakerdeck.com/nrslib/sql-tutorial>
+  - SQLの初心者向け資料
+  - とても分かりやすい良資料
+
+
+### for expert
+
+1. 勝手に学習 OSS-DB Gold
+
+- <https://www.r-izm.com/oss_g/>
+  - PostgreSQLの重要かつ濃度の濃い情報が詰まっている
+  - PostgreSQL Goldの参考書が1冊しか存在しない中でこれだけの情報がまとまっているのは貴重
+  - OSS-DBを受ける受けないに関わらず、PostgreSQLに関する詳しい情報を得るのに役立つ
+  - たまにドメインが無効になりアクセスできなくなる
 
 ## For e-book
 
@@ -52,7 +63,11 @@
 
 ## For video learning
 
-- In preparation.
+1. AI-SCHOLAR_TV
+
+- <https://www.youtube.com/channel/UCiIEyIvEDUx6wI0e0ZqdHug>
+  - > AI-SCHOLARは最新のAIに関する論文を分かりやすく紹介するAI論文紹介メディアです
+  - 機械学習・データサイエンスについて分かりやすく説明や、実態について教えてくれる
 
 ## For productivity tool
 
