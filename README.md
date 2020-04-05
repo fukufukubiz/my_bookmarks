@@ -2,7 +2,7 @@
 
 - Information for better approach, LGTM.
 
-## For training
+## Training
 
 ### for bigginer
 
@@ -49,7 +49,7 @@
   - OSS-DBを受ける受けないに関わらず、PostgreSQLに関する詳しい情報を得るのに役立つ
   - たまにドメインが無効になりアクセスできなくなる
 
-## For e-book
+## e-book
 
 1. インプレスブックス
 
@@ -61,7 +61,7 @@
 - <https://jakevdp.github.io/PythonDataScienceHandbook/>
   - 英語版が無料で閲覧可能
 
-## For video learning
+## Video learning
 
 1. AI-SCHOLAR_TV
 
@@ -69,7 +69,7 @@
   - > AI-SCHOLARは最新のAIに関する論文を分かりやすく紹介するAI論文紹介メディアです
   - 機械学習・データサイエンスについて分かりやすく説明や、実態について教えてくれる
 
-## For productivity tool
+## Productivity tool
 
 1. Mouse Dictionary
 
@@ -83,7 +83,7 @@
     - 495円 (2020/4 時点)
     - 収録項目数 : 198万9500
 
-## For system or application trial
+## System or application trial
 
 1. ElephantSQL
 
@@ -106,7 +106,7 @@
   - 無料の制約
     - 英文法とスペルのCriticalな間違いに対する修正のみ
   
-## For Windows automation
+## Windows automation
 
 1. UWSC掲示板
 
