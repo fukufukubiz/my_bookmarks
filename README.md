@@ -56,7 +56,13 @@
 - <https://book.impress.co.jp/>
   - たまに全文無料公開される。要チェック。
 
-2. Python Data Science Handbook
+2. SE Book
+
+- <https://www.shoeisha.co.jp/book>
+  - たまに全文無料公開される。要チェック。
+  - ただし、読むためには会員登録必須。
+
+3. Python Data Science Handbook
 
 - <https://jakevdp.github.io/PythonDataScienceHandbook/>
   - 英語版が無料で閲覧可能
