@@ -38,6 +38,18 @@
   - SQLの初心者向け資料
   - とても分かりやすい良資料
 
+6. Coursera(コーセラ) Andrew Ng氏によるディープラーニング授業の日本語訳
+
+- <https://github.com/k-tamura/coursera-machine-learning-ja>
+  - > Coursera - 機械学習コースの日本語訳
+  - 元が英語のためありがたい資料
+  - > Octaveは、MATLABの無料の代替ソフトウェアです。プログラミング演習は、OctaveとMATLABのどちらでも使用できます。
+  
+7. Coursera(コーセラ) Andrew Ng氏によるディープラーニング授業のPython版
+
+- <https://github.com/dibgerge/ml-coursera-python-assignments>
+  - > Python Programming Assignments
+  - 元が「Octave」あるいは「MATLAB」という特殊（マイナー？）なものを取り扱っているのでありがたい
 
 ### for expert
 
