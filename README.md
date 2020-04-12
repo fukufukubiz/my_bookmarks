@@ -31,6 +31,10 @@
 - <https://speakerdeck.com/kinakobooster/koredakeshou-rebajian-yasukunarudezainfalseji-chu>
   - デザインの基礎について分かりやすく重要なことがまとめられている
   - 資料作り、サイト作りなど、あらゆる面での基礎知識となるはず
+  - 他、続編も要チェック
+    - [UIデザインをはじめよう](https://speakerdeck.com/kinakobooster/uidezainwohazimeyou)
+    - [今日からできるUX](https://speakerdeck.com/kinakobooster/jin-ri-karadekiruuxdezain)
+    - [一瞬でそれっぽくなるデザインの方法](https://speakerdeck.com/kinakobooster)
 
 5. SQL Tutorial
 
