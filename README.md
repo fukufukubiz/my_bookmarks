@@ -55,6 +55,16 @@
   - > Python Programming Assignments
   - 元が「Octave」あるいは「MATLAB」という特殊（マイナー？）なものを取り扱っているのでありがたい
 
+8. git初心者への道
+
+- <https://gist.github.com/yatemmma/6486028#file-git-lesson2-md>
+  - > お仕事で困らないレベルまでググっとします。
+
+9. GitHubカンニング・ペーパー
+
+- <https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ja.md#空白の無視>
+  - > これはGitやGitHubの隠された機能やよく知られていない機能の一覧だ。
+
 ### for expert
 
 1. 勝手に学習 OSS-DB Gold
