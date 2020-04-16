@@ -91,10 +91,6 @@
   - > Python Programming Assignments
   - 元が「Octave」あるいは「MATLAB」という特殊（マイナー？）なものを取り扱っているのでありがたい
 
-
-
-
-
 3. 前処理大全 サンプルコード
 
 - <https://github.com/ghmagazine/awesomebook>
@@ -118,7 +114,10 @@
 3. Python Data Science Handbook
 
 - <https://jakevdp.github.io/PythonDataScienceHandbook/>
+  - Amazon.comのレビューでもかなりの高評価の良本
   - 英語版が無料で閲覧可能
+  - 日本語版は、定価4,620円
+    <https://www.oreilly.co.jp/books/9784873118413/>
 
 ## Video learning
 
