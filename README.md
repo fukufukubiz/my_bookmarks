@@ -42,25 +42,12 @@
   - SQLの初心者向け資料
   - とても分かりやすい良資料
 
-6. Coursera(コーセラ) Andrew Ng氏によるディープラーニング授業の日本語訳
-
-- <https://github.com/k-tamura/coursera-machine-learning-ja>
-  - > Coursera - 機械学習コースの日本語訳
-  - 元が英語のためありがたい資料
-  - > Octaveは、MATLABの無料の代替ソフトウェアです。プログラミング演習は、OctaveとMATLABのどちらでも使用できます。
-  
-7. Coursera(コーセラ) Andrew Ng氏によるディープラーニング授業のPython版
-
-- <https://github.com/dibgerge/ml-coursera-python-assignments>
-  - > Python Programming Assignments
-  - 元が「Octave」あるいは「MATLAB」という特殊（マイナー？）なものを取り扱っているのでありがたい
-
-8. git初心者への道
+6. git初心者への道
 
 - <https://gist.github.com/yatemmma/6486028#file-git-lesson2-md>
   - > お仕事で困らないレベルまでググっとします。
 
-9. GitHubカンニング・ペーパー
+7. GitHubカンニング・ペーパー
 
 - <https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.ja.md#空白の無視>
   - > これはGitやGitHubの隠された機能やよく知られていない機能の一覧だ。
@@ -74,6 +61,46 @@
   - PostgreSQL Goldの参考書が1冊しか存在しない中でこれだけの情報がまとまっているのは貴重
   - OSS-DBを受ける受けないに関わらず、PostgreSQLに関する詳しい情報を得るのに役立つ
   - たまにドメインが無効になりアクセスできなくなる
+
+### for ML
+
+0. Coursera(コーセラ) 機械学習 (スタンフォード大学教授 Andrew Ng氏によるディープラーニング授業)
+
+- <https://www.coursera.org/learn/machine-learning>
+  - 会員登録必須
+  - 講義を受けるだけなら無料
+  - 修了証を得るにはお金の支払いが必要
+    - 払ってでも得るだけの価値はあるということか
+    - 受講・修了しました、という証明になる
+  - 機械学習をするなら受けておくべき有名な講義
+  - 11週分を想定したボリューム
+  - 受講期間が設けられる点に注意（延長は可能）
+  - 所々に課題提出が求められる。
+    - 間違いすぎると、一定時間を開けてからでないと再提出できない。
+
+1. Coursera(コーセラ) Andrew Ng氏によるディープラーニング授業の日本語訳
+
+- <https://github.com/k-tamura/coursera-machine-learning-ja>
+  - > Coursera - 機械学習コースの日本語訳
+  - 元が英語のためありがたい資料
+  - > Octaveは、MATLABの無料の代替ソフトウェアです。プログラミング演習は、OctaveとMATLABのどちらでも使用できます。
+  
+2. Coursera(コーセラ) Andrew Ng氏によるディープラーニング授業のPython版
+
+- <https://github.com/dibgerge/ml-coursera-python-assignments>
+  - > Python Programming Assignments
+  - 元が「Octave」あるいは「MATLAB」という特殊（マイナー？）なものを取り扱っているのでありがたい
+
+
+
+
+
+3. 前処理大全 サンプルコード
+
+- <https://github.com/ghmagazine/awesomebook>
+- <https://github.com/UdonDa/MaeshoriDaizen>
+  - 前処理の参考になるサンプルコード集
+  - どちらも同じ感じ(若干違う)
 
 ## e-book
 
